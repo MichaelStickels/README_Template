@@ -51,6 +51,7 @@ Some more photos of the project and the build process.
 <div align="center">
   <kbd>
     <img src="images/frank-wang-ogxlyCA1BQc-unsplash.jpg" />
+    
     caption of what is in this photo
   </kbd>
 </div>
@@ -58,6 +59,7 @@ Some more photos of the project and the build process.
 <div align="center">
   <kbd>
     <img src="images/nicolas-thomas-3GZi6OpSDcY-unsplash.jpg" />
+
     caption of what is in this photo
   </kbd>
 </div>
@@ -65,6 +67,7 @@ Some more photos of the project and the build process.
 <div align="center">
   <kbd>
     <img src="images/sahand-babali-owjrvbyXYyc-unsplash.jpg" />
+
     caption of what is in this photo
   </kbd>
 </div>
