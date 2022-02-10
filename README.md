@@ -4,7 +4,7 @@ Intro to the project and some quick information, followed by an image of the pro
 
 <div align="center">
   <kbd>
-    <img src="harrison-broadbent-afZVP8xbbw0-unsplash.jpg" />
+    <img src="images/harrison-broadbent-afZVP8xbbw0-unsplash.jpg" />
   </kbd>
 </div>
 
@@ -43,6 +43,31 @@ GIFs are useful here to see the project in action.
 ### Troubleshooting
 
 Or FAQs, if that's more appropriate.
+
+## Photos
+
+Some more photos of the project and the build process.
+
+<div align="center">
+  <kbd>
+    <img src="images/frank-wang-ogxlyCA1BQc-unsplash.jpg" />
+    caption of what is in this photo
+  </kbd>
+</div>
+
+<div align="center">
+  <kbd>
+    <img src="images/nicolas-thomas-3GZi6OpSDcY-unsplash.jpg" />
+    caption of what is in this photo
+  </kbd>
+</div>
+
+<div align="center">
+  <kbd>
+    <img src="images/sahand-babali-owjrvbyXYyc-unsplash.jpg" />
+    caption of what is in this photo
+  </kbd>
+</div>
 
 ## Back matter
 
